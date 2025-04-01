@@ -1,10 +1,10 @@
-> ## **`versión: Beta`**
+> ## **version: Beta**
 
 <h1 align="center">🚀 ASTRO-BOT ☄️</h1>
 
 ---
 <p align="center">
-  <img src="https://files.catbox.moe/64kqi9.jpg" alt="Menú Principal">
+  <img src="https://files.catbox.moe/64kqi9.jpg" alt="Menu Principal">
 </p>  
 
 ---
