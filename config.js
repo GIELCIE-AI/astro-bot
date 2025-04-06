@@ -11,34 +11,28 @@ import moment from 'moment-timezone'
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +573218138672
-global.confirmCode = ''
+global.botNumberCode = '+256744866509' //Ejemplo: +573218138672
+global.confirmCode = '+256744866509'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  [ '50488198573', 'Deylin', true ],
-  [ '51921826291', 'maycol', true ],
-  [ '639104096580', 'José', true ],
-  [ '5216633900512', 'BrayanOFC',true ],
-// ABRAN PASO PARA LA MERA VRG
-  [ '584146277368', 'Barboza',true],
-  ['59169739411'],
-  [ '50493732693', 'adonay',true],
-  [ '5216671548329', 'Legna', true], 
-  [ '50557333744', 'JonathanG', true],
+  [ '256744866509', 'collins', true ],
+  [ '256744866509', 'collins', true ],
+  [ '256744866509', 'collins', true ],
+  
 ]; // <-- Corchete de cierre y coma añadidos
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['50488198573']
-global.suittag = ['50488198573'] 
+global.mods = ['256744866509']
+global.suittag = ['256744866509'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16' 
-global.languaje = 'Español'
+global.languaje = 'English'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
 global.nameqr = '𝔸𝕤𝕥𝕣𝕠 𝔹𝕠𝕥'
@@ -75,7 +69,7 @@ global.photoSity = [catalogo]
 global.gp1 = 'https://chat.whatsapp.com/F8KwM3rVqkS9HhR5msoRqQ'
 global.comunidad1 = 'https://chat.whatsapp.com/F8KwM3rVqkS9HhR5msoRqQ'
 global.channel = 'https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m'
-global.channel2 = 'https://whatsapp.com/channel/0029VayQwPsFnSzESZJ9Us3z'
+
 global.md = 'https://github.com/deylinqff/astro-bot'
 global.correo = 'deylibaquedano801@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m';
